@@ -21,6 +21,10 @@ Compartmentalize Travis.CI's CLI.
 # Install
 
 1. Clone this repo.
+
+        git clone --recursive git@github.com:mparker17/standalone-travisci-cli.git standalone-travisci-cli
+        cd standalone-travisci-cli
+
 2. Install Ruby, Bundler, and Travis.CI CLI:
 
         rbenv install
